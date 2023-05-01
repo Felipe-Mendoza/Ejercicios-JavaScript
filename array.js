@@ -11,5 +11,5 @@ console.log(array)
 
 
 
-//Del array anterior crear una copia (Que no sea el mismo en si). Mostrar por consola
+
 
